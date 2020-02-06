@@ -1,4 +1,5 @@
 def plus_two(num)
   phrase = num
-  puts  #{"phrase"} + 2
+  if (num) = 3
+  puts {"5"}
 end   
