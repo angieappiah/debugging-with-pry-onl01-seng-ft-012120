@@ -1,3 +1,4 @@
 def plus_two(num)
-  puts  #{"num"} + 2
+  phrase = num
+  puts  #{"phrase"} + 2
 end   
